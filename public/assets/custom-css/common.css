@@ -1,0 +1,10 @@
+.mid-content h2{
+    text-align: center;
+}
+
+.mid-content{
+    min-height: 550px;
+    background:rgb(204, 204, 204);
+    color: #5f2d2d;
+    margin-right: 15px;
+}

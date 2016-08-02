@@ -1,0 +1,22 @@
+.mid-content>form
+{
+    margin-top:35px;
+}
+
+.form-group>label
+{
+    color:black;
+}
+
+.form-group img
+{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+.form-group
+{
+    margin:25px 0px;
+}

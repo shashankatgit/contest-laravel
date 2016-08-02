@@ -1,0 +1,18 @@
+.table-responsive {
+    color: black;
+    width:90%;
+    margin:auto;
+}
+
+.table-image img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+table tr
+{
+    margin-top:25px;
+    border:2px solid grey;
+}

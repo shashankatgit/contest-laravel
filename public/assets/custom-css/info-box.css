@@ -1,0 +1,22 @@
+.info-box{
+    text-align: center;
+    width: auto;
+    max-width: 250px;
+    margin:auto;
+    padding:10px;
+    border-radius: 3px;
+}
+
+.info-box.fail{
+    //background-color: #ffc4be;
+    color:red;
+    font-weight: bold;
+    font-size:14px;
+}
+
+.info-box.success {
+    //background-color: #e2ffd9;
+    color:green;
+    font-weight: bold;
+    font-size:12px;
+}
